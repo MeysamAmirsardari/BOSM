@@ -1,5 +1,4 @@
-# BOTM
-EEG-Based Brain-Operated Typewriting Machine
+# EEG-Based Brain-Operated Typewriting Machine
 
 Typewritnig machine based on EEG signal processing
 
