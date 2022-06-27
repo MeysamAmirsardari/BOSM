@@ -1,6 +1,6 @@
-# EEG-Based Brain-Operated Typewriting Machine
+# EEG-Based Brain-Operated Speller Machine
 
-Typewritnig machine based on EEG signal processing
+Speller machine based on EEG signal processing
 
 - Implemented based on two SVM and LDA algorithms for training prediction models 
   and also WPGMA and UPGMA algorithms for clustering EEG channels
